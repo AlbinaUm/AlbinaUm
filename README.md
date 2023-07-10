@@ -3,16 +3,16 @@
 ### :mailbox: Contacts:
 
 <a href="https://www.linkedin.com/in/albina-umarova/">
-  <img src="https://static.vecteezy.com/system/resources/previews/018/930/587/original/linkedin-logo-linkedin-icon-transparent-free-png.png" width="40" height="40"/>
-</a>
+  <img src="https://static-00.iconduck.com/assets.00/linkedin-icon-2048x2048-ya5g47j2.png" width="40" height="40"/>
+</a>&nbsp;
 
 <a href="https://t.me/alya_lv">
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Telegram_logo.svg/480px-Telegram_logo.svg.png" width="40" height="40"/>
-</a>
+</a>&nbsp;
 
 <a href="mailto:albinaumarova2014@gmail.com">
   <img src="https://cdn-icons-png.flaticon.com/512/281/281769.png" width="40" height="40"/>
-</a>
+</a>&nbsp;
 
 <hr>
 
@@ -35,21 +35,20 @@
 ### 🛠 Tools:
 
 <div>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/9/90/DaVinci_Resolve_17_logo.svg" title="DaVinci Resolve" alt="DaVinci Resolve" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/photoshop/photoshop-plain.svg" title="photoshop" alt="photoshop" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/canva/canva-original.svg" title="canva" alt="canva" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/xd/xd-line.svg" title="figma" alt="figma" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" title="figma" alt="figma" width="40" height="40"/>&nbsp;
-  <img src="https://upload.wikimedia.org/wikipedia/commons/9/9e/YouTube_Logo_%282013-2017%29.svg" title="YouTube" alt="YouTube" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/raspberrypi/raspberrypi-original.svg" title="raspberrypi" alt="raspberrypi" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="linux" alt="linux" width="40" height="40"/>&nbsp;
 </div>
 
 <hr>
 
 ### 📚 Education:
 
+<a href="https://mukr.iuk.kg/">International university of the Kyrgyz republic</a> - Bachelor's degree (Software Engineering)  &nbsp;/&nbsp;  September 2020 - June 2025<br>
+<a href="https://attractor-school.com/">Attractor School - IT courses</a> - Frontend developer  &nbsp;/&nbsp;  January 2021 - March 2022
+
 <hr>
 
 ### 📊 Work experience
-<a href="https://attractor-school.com/">Attractor School</a> - Associate Teacher  /  January 2022 - Present<br>
-<a href="https://www.linkedin.com/company/dnk-it-solutions/?originalSubdomain=kg">DNK IT Solutions</a> - Frontend developer  /  May 2022 - Present
+<a href="https://attractor-school.com/">Attractor School</a> - Associate Teacher  &nbsp;/&nbsp;  January 2022 - Present<br>
+<a href="https://www.linkedin.com/company/dnk-it-solutions/?originalSubdomain=kg">DNK IT Solutions</a> - Frontend developer  &nbsp;/&nbsp;  May 2022 - Present
