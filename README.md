@@ -29,7 +29,8 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg" title="mongodb" alt="mongodb" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg" title="sass/scss" alt="sass/scss" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" title="sass/scss" alt="sass/scss" width="40" height="40"/>&nbsp;
-
+  <img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" title="sass/scss" alt="sass/scss" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="sass/scss" alt="sass/scss" width="40" height="40"/>&nbsp;
 <hr>
 
 ### 🛠 Tools:
@@ -49,6 +50,6 @@
 
 <hr>
 
-### 📊 Work experience
+### 📊 Work experience:
 <a href="https://attractor-school.com/">Attractor School</a> - Associate Teacher  &nbsp;/&nbsp;  January 2022 - Present<br>
 <a href="https://www.linkedin.com/company/dnk-it-solutions/?originalSubdomain=kg">DNK IT Solutions</a> - Frontend developer  &nbsp;/&nbsp;  May 2022 - Present
